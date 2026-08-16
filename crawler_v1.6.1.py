@@ -108,3 +108,4 @@ def generate_csv():
 
 if __name__ == "__main__":
     generate_csv()
+fix syntax error and indentation
